@@ -1,0 +1,1 @@
+import{b as t,u as r,d as a,j as s}from"./index-11f53443.js";import{s as o}from"./index-61792135.js";const i=e=>e,f=()=>{const e=t();return r(i),a.useEffect(()=>{e(o("Profile"))},[]),s.jsx(s.Fragment,{children:s.jsx("h1",{children:"Profile"})})};export{f as default};

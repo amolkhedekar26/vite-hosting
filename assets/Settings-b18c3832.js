@@ -1,0 +1,1 @@
+import{b as e,u as a,d as r,j as s}from"./index-11f53443.js";import{s as n}from"./index-61792135.js";const i=t=>t,g=()=>{const t=e();return a(i),r.useEffect(()=>{t(n("Settings"))},[]),s.jsx(s.Fragment,{children:s.jsx("h1",{children:"Settings"})})};export{g as default};

@@ -1,0 +1,1 @@
+import{b as t,u as a,d as r,j as e}from"./index-11f53443.js";import{s as o}from"./index-61792135.js";const c=s=>s,i=()=>{const s=t();return a(c),r.useEffect(()=>{s(o("Teams"))},[]),e.jsx(e.Fragment,{children:e.jsx("h1",{children:"Teams"})})};export{i as default};

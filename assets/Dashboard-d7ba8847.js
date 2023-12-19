@@ -1,0 +1,1 @@
+import{b as t,u as e,d as r,j as a}from"./index-11f53443.js";import{s as o}from"./index-61792135.js";const c=s=>s,h=()=>{const s=t();return e(c),r.useEffect(()=>{s(o("Dashboard"))},[]),a.jsx(a.Fragment,{children:a.jsx("h1",{children:"Dashboard"})})};export{h as default};

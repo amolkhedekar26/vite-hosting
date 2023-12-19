@@ -1,0 +1,1 @@
+import{b as t,u as a,d as r,j as s}from"./index-11f53443.js";import{s as n}from"./index-61792135.js";const o=e=>e,i=()=>{const e=t();return a(o),r.useEffect(()=>{e(n("Calender"))},[]),s.jsx(s.Fragment,{children:s.jsx("h1",{children:"Calender"})})};export{i as default};
